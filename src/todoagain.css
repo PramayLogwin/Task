@@ -1,0 +1,10 @@
+.addMorebtn {
+    background-color: cornflowerblue;
+    border: none;
+    width: 105px;
+    margin: 4px;
+    border-radius: 15px;
+    padding: 15px;
+    cursor: pointer;
+}
+
